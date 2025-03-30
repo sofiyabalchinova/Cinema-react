@@ -5,7 +5,7 @@ export function Footer(){
           <div className="footer-copyright">
             <div className="container">
             © {new Date().getFullYear()} Copyright Text
-            <a className="grey-text text-lighten-4 right" href="#!">Repository</a>
+            <a className="grey-text text-lighten-4 right" href="https://github.com/sofiyabalchinova/Cinema-react">Repository</a>
             </div>
           </div>
         </footer>    
